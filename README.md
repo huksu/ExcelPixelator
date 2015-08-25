@@ -9,3 +9,5 @@ You can also play with the sizes of the pixels and cells to get your desired eff
 Excel Pixelator requires the PIL (The Python Image Library) and the xlsxwriter packages.
 
 Happy hacking!
+
+By Toby Huskinson
